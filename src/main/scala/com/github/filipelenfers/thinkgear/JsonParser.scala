@@ -3,7 +3,7 @@ package com.github.filipelenfers.thinkgear
 import net.liftweb.json._
 import language.implicitConversions
 
-object ParserLiftJson {
+object JsonParser {
 
   implicit val formats = DefaultFormats
 
