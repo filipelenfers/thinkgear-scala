@@ -13,6 +13,7 @@ project/boot/
 ### Scala ###
 *.class
 *.log
+.DS_Store
 
 # sbt specific
 .cache/
